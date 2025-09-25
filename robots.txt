@@ -1,5 +1,5 @@
 # robots.txt for 동탄역 루센채
-# Generated: 2025-09-24
+# Generated: 2025-09-25
 
 # 모든 검색엔진 봇 허용
 User-agent: *
